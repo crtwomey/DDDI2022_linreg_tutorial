@@ -1,13 +1,13 @@
-# DDDI 2022 tutorial on linear regression 
+# Linear regression in a hurry
 
 Tutorial on linear regression for the 2022 DDDI summer tutorial series.
 
-## Notebook
+### Notebook
 
 Link to colab [notebook](https://colab.research.google.com/github/crtwomey/DDDI2022_linreg_tutorial/blob/main/notebooks/DDDI2022_Tutorial_LinearRegression.ipynb).
 
 
-## Data credit
+### Data credit
 
 Data on finch beaks collected by Peter and Rosemary Grant (Grant, P. (1986)
 Ecology and Evolution of Darwin's Finches, Princeton University Press,
@@ -17,7 +17,7 @@ Princeton, N.J.). The data for "finch_beaks.csv" is from the
 Methods of Data Analysis (3rd ed), Cengage Learning.)
 
 
-## Image credit
+### Image credit
 
 Image are from: [National
 Geographic](https://www.nationalgeographic.com/science/article/150211-evolution-darwin-finches-beaks-genome-science),
